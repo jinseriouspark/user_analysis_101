@@ -1,7 +1,8 @@
 streamlit>=1.36.0
-google-generativeai>=0.5.0
 notion-client>=2.2.1
+google-generativeai>=0.8.0  
+pandas>=2.2.2
 plotly>=5.22.0
-networkx>=3.2.1
-python-dotenv>=1.0.1
-
+networkx>=3.3
+matplotlib>=3.9.0
+numpy>=1.26.4
